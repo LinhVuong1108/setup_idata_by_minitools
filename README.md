@@ -7,8 +7,8 @@
 4. Lưu lại file
 5. Mở file vừa lưu để chạy
 ***********************************
-  1. Đường dẫn tải công cụ
-   - "Minimal ADB and Fastboot" ==> https://androidmtk.com/download-minimal-adb-and-fastboot-tool
+1. Đường dẫn tải công cụ
+     "Minimal ADB and Fastboot" ==> https://androidmtk.com/download-minimal-adb-and-fastboot-tool
 2.Code tham khảo
        . https://adbshell.com/
        . https://gist.github.com/Pulimet/5013acf2cd5b28e55036c82c91bd56d8?hl=vi-VN
