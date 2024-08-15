@@ -2,7 +2,7 @@
 1. Sau khi tải file về mở trình chỉnh sửa
 2. Dùng công cụ tìm kiếm và thay thế (Find & Replace)
 3. Thay thế các đoạn mã sau
-   
+
   . D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.103.apk thành đường dẫn file apk ứng dụng JTSprinter phiên bản 1.1.103 trong máy bạn
    
   . D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.117.apk thành đường dẫn file apk ứng dụng JTSprinter phiên bản 1.1.117 trong máy bạn
