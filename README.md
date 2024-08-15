@@ -1,3 +1,6 @@
+********** NOTE *********
+VUI LÒNG ĐỌC note_quan_trong trước để biết tinh chỉnh file
+
 ********* lưu ý *********
 1. lựa chọn phiên bản ứng dụng phù hợp
   - "Setup IDATA by minitools" --> dành cho người dùng minitools "Minimal ADB and Fastboot"
