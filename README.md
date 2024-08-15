@@ -1,4 +1,5 @@
 ********** NOTE *********
+
 VUI LÒNG ĐỌC note_quan_trong trước để biết tinh chỉnh file
 
 ********* lưu ý *********
