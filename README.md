@@ -4,8 +4,8 @@
 3. Thay thế các đoạn mã sau
   . D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.103.apk thành đường dẫn file apk ứng dụng JTSprinter phiên bản 1.1.103 trong máy bạn
   . D:\ANT\Program\File_APP_APK\JTSprinter_version\JTSprinter1.1.117.apk thành đường dẫn file apk ứng dụng JTSprinter phiên bản 1.1.117 trong máy bạn
-4. Lưu lại file
-5. Mở file vừa lưu để chạy
+5. Lưu lại file
+6. Mở file vừa lưu để chạy
 ***********************************
   * Đường dẫn tải công cụ
    - "Minimal ADB and Fastboot" ==> https://androidmtk.com/download-minimal-adb-and-fastboot-tool
